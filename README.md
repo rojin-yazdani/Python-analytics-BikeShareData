@@ -41,5 +41,5 @@ The answers to the questions above will determine the city and timeframe on whic
 
 For run the project please use below code:
 ```
->>> python bikeshare_rojin.py
+>>> python bikeshare.py
 ```
